@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.AssemblyInfo.cs
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/bin/Debug/net6.0/Hometask2
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/bin/Debug/net6.0/Hometask2.deps.json
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/bin/Debug/net6.0/Hometask2.runtimeconfig.json
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/bin/Debug/net6.0/Hometask2.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/bin/Debug/net6.0/Hometask2.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/refint/Hometask2.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/Hometask2.genruntimeconfig.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar8-2023/Hometask2/obj/Debug/net6.0/ref/Hometask2.dll
